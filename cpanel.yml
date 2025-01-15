@@ -1,0 +1,7 @@
+deployment:
+  tasks:
+    - export DEPLOY_PATH=/home/username/public_html/yourwebsite
+    - /bin/cp -R * $DEPLOY_PATH
+    - cd $DEPLOY_PATH
+    - composer install
+    - php artisan migrate --force
