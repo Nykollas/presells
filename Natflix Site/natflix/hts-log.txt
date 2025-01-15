@@ -1,0 +1,62 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 14 Jan 2025 20:01:49 at https://natflixfitness.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://natflixfitness.com/ -O1 "C:\Meus Sites\natflix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:04:36	Error: 	"Forbidden" (403) at link launcher.hotmart.com/launcher.js (from https://natflixfitness.com/)
+20:05:18	Error: 	"Not Found" (404) at link https://natflixfitness.com/vejatreinos/ (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/psicologa.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/lpf-e-vaccum.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/fisioterapia.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/pilates.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/cross-natflix.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/jiu-jitsu-def-pessoal.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/power-ballet.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/fit-dance.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/dan-sa.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/spinning.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/meditacao.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/projeto-smv-aquecimento.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/cardapios-alimentares-emagr.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/receitinhas.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/nutricao.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/jiu-jitsu-iniciante.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/saude-do-joelho.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/execucao-dos-exercicios-complexos.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/execucao-dos-exercicios-sup.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/alongamento-e-mobilidade.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/yoga-para-iniciantes.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/yoga-para-intermediarios_avancados.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/summerflix.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/projeto-cinturinha-fina.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/monte-seu-material-em-casa.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/fichas-hiper-intermed.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/embaixadoras-natflix.png (from https://natflixfitness.com/)
+20:05:19	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/e-book_-Desculpe-o-transtorno.png (from https://natflixfitness.com/)
+20:05:20	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2024/06/agendas-de-treinos.png (from https://natflixfitness.com/)
+20:05:20	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2022/11/Embaixadora.png (from https://natflixfitness.com/)
+20:05:20	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2022/11/ebook.png (from https://natflixfitness.com/)
+20:05:20	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2022/11/planilhas.png (from https://natflixfitness.com/)
+20:05:20	Error: 	"Not Found" (404) at link https://natflixfitness.com/https:/natflixfitness.com/wp-content/uploads/2022/11/Group-59.png (from https://natflixfitness.com/)
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=59
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=59 to https://natflixfitness.com/planos/
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=661
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=661 to https://natflixfitness.com/modalidades/
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=1412
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=1412 to https://natflixfitness.com/treinos-em-casa/
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=603
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=603 to https://natflixfitness.com/treinos-na-academia/
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=910
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=910 to https://natflixfitness.com/entenda/
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=56
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=56 to https://natflixfitness.com/metodo/
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=53
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=53 to https://natflixfitness.com/sobre/
+20:05:20	Warning: 	Moved Permanently for https://natflixfitness.com/?p=62
+20:05:20	Warning: 	File has moved from https://natflixfitness.com/?p=62 to https://natflixfitness.com/duvidas/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 31 seconds : 241 links scanned, 197 files written (17282618 bytes overall) [15266904 bytes received at 72354 bytes/sec], 3856533 bytes transferred using HTTP compression in 107 files, ratio 21%, 7.9 requests per connection
+(35 errors, 16 warnings, 0 messages)
